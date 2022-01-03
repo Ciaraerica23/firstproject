@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+.top-container{color: sienna;background-color: peru;margin: 0px;text-align: center;}
+.middle-container{background-color: sandybrown;}
+.contact-me{background-color: sandybrown;}
+
+
+body{margin: 0px;font-family: 'Merriweather',serif;text-align: center;}
+.cloud-1{position: relative;right: 200px;top:400px;height:75px;}
+.cloud-2{position: relative;left: 200px;position:relative;top:40px;height:75px;}
+
+h1{font-family: 'Sacramento',cursive;line-height: 2;font-size: 5.625rem;margin: 50px auto 0 auto;color:sienna;}
+h3{font-family: 'Montserrat',sans-serif;color:sienna;}
+h2{padding: 0px;margin: 0px;font-family: 'Montserrat',sans-serif;font-size: 2.5rem;color: sienna;}
+.skill-row{width:50%;margin: 100px auto 100px auto;text-align: left;}
+.profile{width:50%;margin: 0px auto 100px auto;}
+.chillies{float: left;margin-right: 30px;}
+.computer{float: right;margin-left: 30px;}
+hr {
+  border-style: none;
+  border-color: sienna;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+.btn {
+  background: sandybrown;
+  background-image: -webkit-linear-gradient(top, sandybrown, sandybrown);
+  background-image: -moz-linear-gradient(top, sandybrown, sandybrown);
+  background-image: -ms-linear-gradient(top, sandybrown, sandybrown);
+  background-image: -o-linear-gradient(top, sandybrown, sandybrown);
+  background-image: linear-gradient(to bottom, sandybrown, sandybrown);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: black;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  border: solid #63370A 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: sandybrown;
+  background-image: -webkit-linear-gradient(top, sienna, sienna );
+  background-image: -moz-linear-gradient(top, sienna, sienna);
+  background-image: -ms-linear-gradient(top,sienna, sienna);
+  background-image: -o-linear-gradient(top, sienna, sienna);
+  background-image: linear-gradient(to bottom, sienna,sienna);
+  text-decoration: none;
+}
+.footer{margin: 0px;background-color: peru;}
+pre{margin:0px;background-color: peru;}
